@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer Game", "Platformer Game\Platformer Game.csproj", "{C2A8163D-21D2-4D79-968D-E942A5667B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicGraphics3", "..\..\BasicGraphics3\BasicGraphics3\BasicGraphics3.csproj", "{285239A8-06FC-4BC7-9E52-51E54F6D852B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A8163D-21D2-4D79-968D-E942A5667B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A8163D-21D2-4D79-968D-E942A5667B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A8163D-21D2-4D79-968D-E942A5667B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A8163D-21D2-4D79-968D-E942A5667B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285239A8-06FC-4BC7-9E52-51E54F6D852B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285239A8-06FC-4BC7-9E52-51E54F6D852B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285239A8-06FC-4BC7-9E52-51E54F6D852B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285239A8-06FC-4BC7-9E52-51E54F6D852B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
